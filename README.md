@@ -16,4 +16,4 @@ this is a good example of [my_code](https://gist.github.com/DavidRey93/ba7bce0fa
 
 ### images
 
-https://github.com/DavidRey93/technical_discussion/issues/1#issue-1679000018
+[screenshot](https://github.com/DavidRey93/technical_discussion/issues/1#issue-1679000018)
